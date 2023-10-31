@@ -36,5 +36,5 @@ pip install PyPDF2
 pip install subprocess
 ```
 
-1. Change filepath where prt*.pdf files are located
+1. Change filepath in the Py-file, set location where prt*.pdf files are located
 2. Change bat filepath to where SchenkerUnifaun.py is located (optional if you want to run from bat-file)
