@@ -4,6 +4,7 @@ Schenker Unifaun export labels as full A4. This python code trim labels to fit Z
 Exact margins set to fit print from Adobe Reader.
 
 Written in Python 3.12
+
 ![alt text](a4trim.jpg)
 ## Setup
 1. Change filepath where trp*.pdf files are located
