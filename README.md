@@ -1,7 +1,7 @@
 # SchenkerUnifaun_Label_trim
 Schenker Unifaun export labels as full A4. This python code trim labels to fit Zebra GK420D 192x102mm labels
 
-Used when created labels on https://www.dbschenker.com/se-sv/foretag/digitala-tjanster/boka-landtransport
+Used for labels created on https://www.dbschenker.com/se-sv/foretag/digitala-tjanster/boka-landtransport
 
 Exact margins set to fit print from Adobe Reader.
 
