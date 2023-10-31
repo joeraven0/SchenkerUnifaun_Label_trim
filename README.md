@@ -8,7 +8,6 @@ Written in Python 3.12
 Files in same folder as SchenkerUnifaun.py will be placed under folder crop_input and cropped pdf-files under crop_output. Set combine flag to 1 in code to combine output file, 0 to save to separate files.
 ```
 C:\USERS\USER\DROPBOX\AUTOMATISERING\SCHENKER
-│   a4trim.jpg
 │   SchenkerTrim.bat
 │   SchenkerUnifaun.py
 │
