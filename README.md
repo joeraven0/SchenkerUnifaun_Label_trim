@@ -5,7 +5,6 @@ Exact margins set to fit print from Adobe Reader.
 
 Written in Python 3.12
 
-Files in same folder as SchenkerUnifaun.py will be placed under folder crop_input and cropped pdf-files under crop_output. Set combine flag to 1 in code to combine output file, 0 to save to separate files.
 ```
 C:\USERS\USER\DROPBOX\AUTOMATISERING\SCHENKER
 │   SchenkerTrim.bat
@@ -19,6 +18,14 @@ C:\USERS\USER\DROPBOX\AUTOMATISERING\SCHENKER
         combined_20231031_194547.pdf
 ```
 ![alt text](a4trim.jpg)
+
+## Features
+
+Files in same folder as SchenkerUnifaun.py will be placed under folder crop_input and cropped pdf-files under crop_output.
+Set combine flag to 1 in code to combine output file, 0 to save to separate files.
+
+Only files beginning with prt ending with .pdf will be handled by the script.
+
 ## Setup
-1. Change filepath where trp*.pdf files are located
+1. Change filepath where prt*.pdf files are located
 2. Change bat filepath to where SchenkerUnifaun.py is located (optional if you want to run from bat-file)
