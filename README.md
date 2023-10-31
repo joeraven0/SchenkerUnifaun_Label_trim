@@ -17,7 +17,7 @@ C:\USERS\USER\DROPBOX\AUTOMATISERING\SCHENKER
 └───crop_output
         combined_20231031_194547.pdf
 ```
-![alt text](a4trim.jpg)
+![alt text](_a4trim.jpg)
 
 ## Features
 
