@@ -29,5 +29,12 @@ Set combine flag to 1 in code to combine output file, 0 to save to separate file
 Only files beginning with prt ending with .pdf will be handled by the script.
 
 ## Setup
+
+Install dependencies
+```
+pip install PyPDF2
+pip install subprocess
+```
+
 1. Change filepath where prt*.pdf files are located
 2. Change bat filepath to where SchenkerUnifaun.py is located (optional if you want to run from bat-file)
