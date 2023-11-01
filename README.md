@@ -1,5 +1,5 @@
 # SchenkerUnifaun_Label_trim
-Schenker Unifaun export labels as full A4. This python code trim Schenker sized labels.
+Schenker Unifaun export labels as full A4. This python code trim to the correct ratio on Schenker labels.
 
 Used for labels created on https://www.dbschenker.com/se-sv/foretag/digitala-tjanster/boka-landtransport
 
@@ -20,6 +20,8 @@ C:\USERS\USER\DROPBOX\AUTOMATISERING\SCHENKER
         combined_20231031_194547.pdf
 ```
 ![alt text](_a4trim.jpg)
+
+White space removed around the label
 
 ## Features
 
